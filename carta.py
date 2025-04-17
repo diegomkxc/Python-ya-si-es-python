@@ -1,0 +1,5 @@
+print("10/03/25")
+print("hmn se que ahora no estas del todo bien, pero hay cosas en ti que aun tienes que mejorar, tienes que seguir mejorando con el tiempo")
+print("quiero y espero que seas un buen profesional, esfuerzate al maximo durante el año pasar ser alguien importante, alguien capaz y superior al resto")
+print("cambia wn, cambia, se mejor por ti y mejor para las personas cercanas a ti porque vas demasiado bien, estoy orgulloso de ti")
+print("mejora como persona, como estudiante, hermano, hijo y pareja, se que vas a poder con todo wn")
